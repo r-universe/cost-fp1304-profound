@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ProfoundData",
+    "oncran": true
+  }
+]
